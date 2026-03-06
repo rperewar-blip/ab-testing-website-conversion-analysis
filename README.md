@@ -96,4 +96,21 @@ The observed difference in conversion rates is not statistically significant and
 
 ---
 
-## Project Structure
+
+---
+
+## Key Skills Demonstrated
+
+- A/B testing analysis
+- Data cleaning and validation
+- Conversion rate analysis
+- Statistical hypothesis testing
+- Business decision making from experimental data
+
+---
+
+## Author
+
+**Rishabh Perewar**
+
+Data Analytics / Business Analytics Portfolio
